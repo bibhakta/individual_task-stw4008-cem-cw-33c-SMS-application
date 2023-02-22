@@ -2,3 +2,4 @@
 2. Students_data is database for inserting value from gui.
 3. Admin dashboard only contains my part as individual work, result 
 generator and table is done by other group members
+4. venv file is virtual environment
